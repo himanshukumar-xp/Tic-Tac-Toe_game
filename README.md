@@ -31,7 +31,7 @@ tic-tac-toe/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://github.com/himanshukumar-xp/tic-tac-toe.git
 cd tic-tac-toe
 ```
 
